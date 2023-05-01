@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "gantt-chart"
+version = "0.1.0"
+description = ""
+authors = ["jdkern11 <leolion29@gmail.com>"]
+readme = "README.md"
+packages = [{include = "gantt_chart"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.1"
+matplotlib = "^3.6.1"
+tk = "^0.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

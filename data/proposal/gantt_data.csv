@@ -1,0 +1,12 @@
+﻿task,start_date,end_date,percent_completed,worker,support
+Toxicity Modeling,1/1/23,10/30/23,5,Joe,
+Solubility Modeling,1/1/22,5/30/22,100,Joe,Shruti
+Advanced Solubility Modeling,5/30/22,10/30/23,30,Joe,Mona
+Entropy Modeling,11/1/22,1/1/24,0,Aubrey,
+Enthalpy Modeling,1/1/22,10/1/22,100,Aubrey,Huan
+Multitask Modeling,1/1/22,5/30/22,100,Chris,
+Virtual Forward Synthesis,10/1/22,10/1/23,30,Joe,Rishi
+Genetic Algorithm ROP Generation,5/30/23,10/1/23,0,Joe,
+Polymer Screening,10/1/23,11/1/23,0,Joe,
+Synthesis,11/1/23,5/11/24,0,Gutekunst Lab,
+Writing,1/1/24,5/11/24,0,Joe
